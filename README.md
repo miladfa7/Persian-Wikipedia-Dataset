@@ -22,6 +22,8 @@ Persian(Farsi) Wikipedia Dataset | دیتاست ویکی پدیا فارسی ش�
 
 </div>
 
+[مشاهده در ویکی پدیا](https://fa.wikipedia.org/wiki/%D8%B3%D8%B9%D8%AF%DB%8C)
+
 ***
 
 #### Download Dataset from Kaggle 
