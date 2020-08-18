@@ -22,5 +22,7 @@ Persian(Farsi) Wikipedia Dataset | دیتاست ویکی پدیا فارسی ش�
 
 </div>
 
+***
+
 #### Download Dataset from Kaggle 
 [Download(800MB)](https://www.kaggle.com/miladfa7/persian-wikipedia-dataset)
